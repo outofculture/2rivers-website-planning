@@ -1,8 +1,5 @@
 2rivers-website-planning
 ========================
 
-
-Contributors
-========================
-* Martin Chase
-* (put your name here when you figure out how to edit)
+Go to the wiki!
+  https://github.com/outofculture/2rivers-website-planning/wiki
